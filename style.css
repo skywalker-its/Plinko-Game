@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  border :solid blue;
+  border-width: 8px;
+  
+}
